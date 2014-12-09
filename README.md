@@ -1,4 +1,5 @@
-=== Zord Form ===
+Zord Form
+=========
 Contributors: zordsdavini
 Tags: form, forms, custom form, form builder, form creator, form manager, form creation, custom forms, forms builder, forms creator, forms manager, forms creation, form administration, inline form,
 Requires at least: 3.4
@@ -8,7 +9,8 @@ License: GPLv2 or later
 
 Inline form to count some entered stuff.
 
-== Description ==
+Description
+-----------
 This is simple plugin for WordPress to create inline forms to calculate some entered stuff.
 
 The Ninja Forms framework is now on [Bitbucket](https://bitbucket.org/zordsdavini/zordform/overview)! If you're a developer and want to help make Ninja Forms better, check out our [GitHub repo](https://github.com/wpninjas/ninja-forms). It's also a great resource for developers who are interested in creating premium extensions for our online store.
@@ -19,7 +21,8 @@ Here are just a few of the things you will find in Zord Form:
 
 * Admin interface to manage form set
 
-== Installation ==
+Installation
+------------
 
 This section describes how to install the plugin and get it working.
 
